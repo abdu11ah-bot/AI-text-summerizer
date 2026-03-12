@@ -1,4 +1,4 @@
-# AI Text Summarizer (Day 18 – Project Alpha)
+# AI Text Summarizer
 
 An AI-powered automation tool that reads a text file, sends the content to a language model via the OpenRouter API, and generates a concise summary.
 
@@ -35,8 +35,8 @@ ai_summarizer
 Clone the repository:
 
 ```
-git clone https://github.com/abdu11ah-bot/day18-ai-summarizer.git
-cd day18-ai-summarizer
+git clone https://github.com/abdu11ah-bot/ai_summarizer.git
+cd ai_summarizer
 ```
 
 Install dependencies:

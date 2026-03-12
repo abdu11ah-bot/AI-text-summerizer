@@ -1,4 +1,4 @@
-# 🤖 AI Text Summarizer (Day 18 – Project Alpha)
+# AI Text Summarizer (Day 18 – Project Alpha)
 
 An AI-powered automation tool that reads a text file, sends the content to a language model via the OpenRouter API, and generates a concise summary.
 
